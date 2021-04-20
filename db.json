@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "description": "Arroz",
+      "image": "/assets/farinha.png"
+    },
+    {
+      "id": 2,
+      "description": "Batata",
+      "image": "/assets/batata.png"
+    }
+  ]
+}
